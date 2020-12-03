@@ -43,7 +43,6 @@ public class Sorbarendezes {
                 
             }
         }
-       int negativOsszeg=0;
        System.out.print("\n\nNegatív számok növekvő sorrend szerint: ");
         
             if (negativDb > 0){
@@ -56,7 +55,6 @@ public class Sorbarendezes {
                 }
             }
                     System.out.print(negativ[i]+" ");
-                    negativOsszeg = negativOsszeg+negativ[i];
                 }
             }
             
